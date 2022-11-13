@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Madalien123
 - 👀 I’m interested in scripts
 - 🌱 I’m fresher in git learning
+- ✨ need help from the professionals 
 
 <!---
 Madalien123/Madalien123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
